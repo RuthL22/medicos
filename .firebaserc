@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "ejemplo-e2ae9": {
+      "hosting": {
+        "app": [
+          "ejemplo-e2ae9"
+        ]
+      }
+    },
+    "ionic-dfa73": {
+      "hosting": {
+        "app": [
+          "ionic-dfa73"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ionic-dfa73"
+  }
+}
